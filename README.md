@@ -16,7 +16,7 @@ Thus, it would be nice to have a catalog of requirements for an AI solution. Eve
 
 Important note: this catalog covers everything if used together with another catalog/template which includes requirements for the regular software system. Such catalogs have existed for a long time, so there’s no reason to duplicate this work. I recommend the Volere template ([free old version](http://homepages.laas.fr/kader/Robertson.pdf), [paid version](https://www.volere.org/templates/volere-requirements-specification-template/)), but you can also use another option. Here is the high level overview of Volere template:
 
-![Volere Template](volere.png)
+![Volere Template](![image](https://github.com/sudheerpulapa/AI-Products-Requirements/assets/146175837/513fabd4-a19a-4ecd-ab59-cafa79bc294a))
 
 The catalog presented here should close the gap by adding the machine learning-specific part to common software requirements.
 
